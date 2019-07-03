@@ -1,0 +1,20 @@
+C:\Users\balje\Documents\Visual Studio 2017\Projects\AwesomeCalculator\AwesomeCalculatorTests\bin\Debug\AwesomeCalculatorTests.dll
+C:\Users\balje\Documents\Visual Studio 2017\Projects\AwesomeCalculator\AwesomeCalculatorTests\bin\Debug\AwesomeCalculatorTests.pdb
+C:\Users\balje\Documents\Visual Studio 2017\Projects\AwesomeCalculator\AwesomeCalculatorTests\bin\Debug\AwesomeCalculator.exe
+C:\Users\balje\Documents\Visual Studio 2017\Projects\AwesomeCalculator\AwesomeCalculatorTests\bin\Debug\nunit.framework.dll
+C:\Users\balje\Documents\Visual Studio 2017\Projects\AwesomeCalculator\AwesomeCalculatorTests\bin\Debug\AwesomeCalculator.pdb
+C:\Users\balje\Documents\Visual Studio 2017\Projects\AwesomeCalculator\AwesomeCalculatorTests\bin\Debug\AwesomeCalculator.exe.config
+C:\Users\balje\Documents\Visual Studio 2017\Projects\AwesomeCalculator\AwesomeCalculatorTests\bin\Debug\nunit.framework.xml
+C:\Users\balje\Documents\Visual Studio 2017\Projects\AwesomeCalculator\AwesomeCalculatorTests\obj\Debug\AwesomeCalculatorTests.csprojResolveAssemblyReference.cache
+C:\Users\balje\Documents\Visual Studio 2017\Projects\AwesomeCalculator\AwesomeCalculatorTests\obj\Debug\AwesomeCalculatorTests.dll
+C:\Users\balje\Documents\Visual Studio 2017\Projects\AwesomeCalculator\AwesomeCalculatorTests\obj\Debug\AwesomeCalculatorTests.pdb
+C:\Users\harsh\Desktop\AwesomeCalculator (2)\AwesomeCalculator\AwesomeCalculatorTests\bin\Debug\AwesomeCalculatorTests.dll
+C:\Users\harsh\Desktop\AwesomeCalculator (2)\AwesomeCalculator\AwesomeCalculatorTests\bin\Debug\AwesomeCalculatorTests.pdb
+C:\Users\harsh\Desktop\AwesomeCalculator (2)\AwesomeCalculator\AwesomeCalculatorTests\bin\Debug\AwesomeCalculator.exe
+C:\Users\harsh\Desktop\AwesomeCalculator (2)\AwesomeCalculator\AwesomeCalculatorTests\bin\Debug\nunit.framework.dll
+C:\Users\harsh\Desktop\AwesomeCalculator (2)\AwesomeCalculator\AwesomeCalculatorTests\bin\Debug\AwesomeCalculator.pdb
+C:\Users\harsh\Desktop\AwesomeCalculator (2)\AwesomeCalculator\AwesomeCalculatorTests\bin\Debug\AwesomeCalculator.exe.config
+C:\Users\harsh\Desktop\AwesomeCalculator (2)\AwesomeCalculator\AwesomeCalculatorTests\bin\Debug\nunit.framework.xml
+C:\Users\harsh\Desktop\AwesomeCalculator (2)\AwesomeCalculator\AwesomeCalculatorTests\obj\Debug\AwesomeCalculatorTests.csprojResolveAssemblyReference.cache
+C:\Users\harsh\Desktop\AwesomeCalculator (2)\AwesomeCalculator\AwesomeCalculatorTests\obj\Debug\AwesomeCalculatorTests.dll
+C:\Users\harsh\Desktop\AwesomeCalculator (2)\AwesomeCalculator\AwesomeCalculatorTests\obj\Debug\AwesomeCalculatorTests.pdb
