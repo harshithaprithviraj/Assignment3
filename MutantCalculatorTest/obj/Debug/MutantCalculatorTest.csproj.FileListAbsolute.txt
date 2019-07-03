@@ -1,0 +1,10 @@
+C:\Users\harsh\Desktop\AwesomeCalculator (1)\AwesomeCalculator\MutantCalculatorTest\obj\Debug\MutantCalculatorTest.csprojResolveAssemblyReference.cache
+C:\Users\harsh\Desktop\AwesomeCalculator (1)\AwesomeCalculator\MutantCalculatorTest\bin\Debug\MutantCalculatorTest.dll
+C:\Users\harsh\Desktop\AwesomeCalculator (1)\AwesomeCalculator\MutantCalculatorTest\bin\Debug\MutantCalculatorTest.pdb
+C:\Users\harsh\Desktop\AwesomeCalculator (1)\AwesomeCalculator\MutantCalculatorTest\bin\Debug\AwesomeCalculator.exe
+C:\Users\harsh\Desktop\AwesomeCalculator (1)\AwesomeCalculator\MutantCalculatorTest\bin\Debug\nunit.framework.dll
+C:\Users\harsh\Desktop\AwesomeCalculator (1)\AwesomeCalculator\MutantCalculatorTest\bin\Debug\AwesomeCalculator.pdb
+C:\Users\harsh\Desktop\AwesomeCalculator (1)\AwesomeCalculator\MutantCalculatorTest\bin\Debug\AwesomeCalculator.exe.config
+C:\Users\harsh\Desktop\AwesomeCalculator (1)\AwesomeCalculator\MutantCalculatorTest\bin\Debug\nunit.framework.xml
+C:\Users\harsh\Desktop\AwesomeCalculator (1)\AwesomeCalculator\MutantCalculatorTest\obj\Debug\MutantCalculatorTest.dll
+C:\Users\harsh\Desktop\AwesomeCalculator (1)\AwesomeCalculator\MutantCalculatorTest\obj\Debug\MutantCalculatorTest.pdb
